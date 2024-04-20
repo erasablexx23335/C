@@ -1,0 +1,13 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/rk/Documents/c/tut73'
+relocations:
+  - { offsetInCU: 0xA4, offset: 0xA4, size: 0x8, addend: 0x0, symName: _sum, symObjAddr: 0x0, symBinAddr: 0x100003E03, symSize: 0x14 }
+  - { offsetInCU: 0x89, offset: 0x89, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x9C, symBinAddr: 0x100003E9F, symSize: 0x26 }
+  - { offsetInCU: 0xDB, offset: 0xDB, size: 0x8, addend: 0x0, symName: _greetGmAndExecute, symObjAddr: 0x58, symBinAddr: 0x100003E5B, symSize: 0x44 }
+  - { offsetInCU: 0xE3, offset: 0xE3, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x9C, symBinAddr: 0x100003E9F, symSize: 0x26 }
+  - { offsetInCU: 0x10C, offset: 0x10C, size: 0x8, addend: 0x0, symName: _greetHelloAndExecute, symObjAddr: 0x14, symBinAddr: 0x100003E17, symSize: 0x44 }
+  - { offsetInCU: 0x114, offset: 0x114, size: 0x8, addend: 0x0, symName: _greetGmAndExecute, symObjAddr: 0x58, symBinAddr: 0x100003E5B, symSize: 0x44 }
+  - { offsetInCU: 0x12D, offset: 0x12D, size: 0x8, addend: 0x0, symName: _sum, symObjAddr: 0x0, symBinAddr: 0x100003E03, symSize: 0x14 }
+  - { offsetInCU: 0x135, offset: 0x135, size: 0x8, addend: 0x0, symName: _greetHelloAndExecute, symObjAddr: 0x14, symBinAddr: 0x100003E17, symSize: 0x44 }
+...
