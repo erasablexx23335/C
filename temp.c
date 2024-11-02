@@ -1,5 +1,5 @@
 #include <stdio.h>
-int* myvalue(){ 
+int *myvalue(){ 
 int a=5; 
 return &a; 
 }
